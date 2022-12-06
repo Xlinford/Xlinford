@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Xlinford
 - 👀 I’m interested in computer game/cooking/interesting stuffs.
-- 🌱 I’m currently learning C++/STL on AutoDriving
+- 🌱 I’m currently learning C++/STL on AutoDriving.
+- 💻 Some for Python; little on C++; Before with Computer Vision；Now as a Auto Driving Planner;
 - 📫 How to reach me xlinford@gmail.com
 
 <!---
